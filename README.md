@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diky Wahyudi (@toosakarin1412)
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning at Syiah Kuala University
+- 🌱 Fresh Graduate from Syiah Kuala University
 - 📫 How to reach me : Discord `rin_1214`
 - 🌐 Know more about me at [dikywa.my.id](https://dikywa.my.id)
 
